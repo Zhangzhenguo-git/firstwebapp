@@ -1,0 +1,156 @@
+{
+  "data":[
+    {
+      "city":"北京",
+      "swiperimgList":[
+        {
+          "id":"1",
+          "name":"http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20195/60904fc24f223e0db5aee3c6148e641f.jpg_750x200_b1b90a19.jpg"
+        },
+        {
+          "id":"2",
+          "name":"http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20195/60904fc24f223e0db5aee3c6148e641f.jpg_750x200_b1b90a19.jpg"
+
+        },
+        {
+          "id":"3",
+          "name":"http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20195/60904fc24f223e0db5aee3c6148e641f.jpg_750x200_b1b90a19.jpg"
+        },
+        {
+          "id":"4",
+          "name":"http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20193/d7bbc21db442366a882e04ddc984669a.jpg_750x200_85e640d9.jpg"
+        }
+      ],
+      "hotimg":"http://img1.qunarzz.com/piao/fusion/1711/16/bfbb9874e8f11402.png",
+      "iconsList":[
+        {
+        "id":"1",
+        "iconUrl":"http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+        "title":"景点门票景点门票景点门票景点门票景点门票"},
+        {
+        "id":"2",
+        "iconUrl":"http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20193/f0f00d6dfe038c044dbc9a437f58b0eb.png",
+        "title":"北京一日游"},
+        {
+        "id":"3",
+        "iconUrl":"http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+        "title":"北京必游"},
+        {
+        "id":"4",
+        "iconUrl":"http://img1.qunarzz.com/piao/fusion/1803/47/c2b659e048b11602.png",
+        "title":"溜娃儿"},
+        {
+        "id":"5",
+        "iconUrl":"http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20191/0334cf5430b9b5505fd79e2b8d7e8670.png",
+        "title":"爬长城"},
+        {
+        "id":"6",
+        "iconUrl":"http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20191/0334cf5430b9b5505fd79e2b8d7e8670.png",
+        "title":"故宫"},
+        {
+        "id":"7",
+        "iconUrl":"http://img1.qunarzz.com/piao/fusion/1803/6c/9e54a8540fee0102.png",
+        "title":"动植物园"},
+        {
+        "id":"8",
+        "iconUrl":"http://img1.qunarzz.com/piao/fusion/1803/76/eb88861d78fb9902.png",
+        "title":"每周好货"},
+        {
+        "id":"9",
+        "iconUrl":"http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20195/35d83bb968d80d54926f30cfb92cb6ff.png",
+        "title":"北京世园会"},
+        {
+        "id":"10",
+        "iconUrl":"http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20194/b4511345827006994aa1980a3886f0ac.png",
+        "title":"北京欢乐谷"}
+      ],
+      "productimg":"http://img1.qunarzz.com/piao/fusion/1711/89/ebc329f16c55bb02.png",
+      "productDatas": [
+        {
+          "imgUrl": "http://img1.qunarzz.com/sight/p0/1902/84/84696f368bbec10da3.img.jpg_200x200_50323152.jpg",
+          "title": "北京世界园艺博览会",
+          "message": "631条品论",
+          "price": "108",
+          "address": "延庆区"
+        },
+        {
+          "imgUrl": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_200x200_1bc99086.jpg",
+          "title": "故宫",
+          "message": "39568条品论",
+          "price": "60",
+          "address": "东城区"
+        },
+        {
+          "imgUrl": "http://img1.qunarzz.com/sight/p0/1708/2b/2b3b94de99c0a425a3.img.jpg_200x200_2458ffb2.jpg",
+          "title": "八达岭长城",
+          "message": "45684条品论",
+          "price": "125",
+          "address": "延庆区"
+        },
+        {
+          "imgUrl": "http://img1.qunarzz.com/sight/p0/1508/89/895a1b7add84f23faca053ce9e3153db.water.jpg_200x200_99ae30ee.jpg",
+          "title": "北京欢乐谷",
+          "message": "65986条品论",
+          "price": "195",
+          "address": "朝阳区"
+        }
+      ],
+
+      "hotlist": [
+        {
+          "id": "1",
+          "imgUrl":
+            "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_250x250_0fc722c0.jpg",
+          "title": "故宫",
+          "price": "￥60"
+        },
+        {
+          "id": "2",
+          "imgUrl":
+            "http://img1.qunarzz.com/sight/p0/1902/84/84696f368bbec10da3.img.jpg_250x250_3588bc9a.jpg",
+          "title": "北京世界园艺博览会",
+          "price": "￥108"
+        },
+        {
+          "id": "3",
+          "imgUrl":
+            "http://img1.qunarzz.com/sight/p0/201403/24/92759d9d52af059a7849f482f10358c5.jpg_250x250_bb4897b4.jpg",
+          "title": "平谷桃花海",
+          "price": "￥32"
+        },
+        {
+          "id": "4",
+          "imgUrl":
+            "http://img1.qunarzz.com/sight/p0/1505/f5/f5f45e1a83537bcb.water.jpg_250x250_63e3520a.jpg",
+          "title": "圆明园",
+          "price": "￥25"
+        },
+        {
+          "id": "5",
+          "imgUrl":
+            "http://img1.qunarzz.com/sight/p0/1708/2b/2b3b94de99c0a425a3.img.jpg_250x250_50c99cf3.jpg",
+          "title": "八达岭长城",
+          "price": "￥125"
+        },
+        {
+          "id": "6",
+          "imgUrl":
+            "http://img1.qunarzz.com/sight/p0/1505/d2/d274c92de14c93da.water.jpg_250x250_d852635b.jpg",
+          "title": "颐和园",
+          "price": "￥30"
+        }
+      ],
+      "activityDataList":[
+        {
+          "imgUrl":"http://img1.qunarzz.com/piao/fusion/1806/29/30427c0e0658b502.png"
+        },
+        {
+          "imgUrl":"http://img1.qunarzz.com/piao/fusion/1806/36/e89032c5f7714f02.png"
+        }
+      ]
+    },
+    {
+      "city":"上海"
+    }
+  ]
+}
